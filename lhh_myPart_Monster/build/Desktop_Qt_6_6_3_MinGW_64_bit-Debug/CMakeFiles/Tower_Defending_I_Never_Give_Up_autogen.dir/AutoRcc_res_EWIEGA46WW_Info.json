@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Tower_Defending_I_Never_Give_Up_autogen",
+	"CMAKE_BINARY_DIR" : "D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up",
+	"CMAKE_SOURCE_DIR" : "D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Tower_Defending_I_Never_Give_Up_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/res_of_qt/KeAiNie.png",
+		"D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/res_of_qt/crystal.png",
+		"D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/res_of_qt/star.png",
+		"D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/res_of_qt/background1.png",
+		"D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/res_of_qt/monster.jpg"
+	],
+	"LOCK_FILE" : "D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Tower_Defending_I_Never_Give_Up_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/My_new_qt/6.6.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Tower_Defending_I_Never_Give_Up_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/lhh/qt_hello_/Tower_Defending_I_Never_Give_Up/res.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

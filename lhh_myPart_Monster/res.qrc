@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res_of_qt/background1.png</file>
+        <file>res_of_qt/monster.jpg</file>
+        <file>res_of_qt/crystal.png</file>
+        <file>res_of_qt/KeAiNie.png</file>
+        <file>res_of_qt/star.png</file>
+    </qresource>
+</RCC>
